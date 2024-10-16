@@ -51,3 +51,6 @@ public class ColaCircular {
         return cola[frente];
     }
 }
+//Perez Mendoza Danna Johana
+        //Toribio Santos Andres
+        //Pérez Solano Sebastián Gadiel
