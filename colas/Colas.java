@@ -54,3 +54,6 @@ class Cola {
 
 
 }
+//Perez Mendoza Danna Johana
+        //Toribio Santos Andres
+        //Pérez Solano Sebastián Gadiel
