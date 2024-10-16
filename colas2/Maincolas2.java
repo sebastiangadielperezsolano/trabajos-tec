@@ -76,3 +76,6 @@ public class Maincolas2 {
         scanner.close();
     }
 }
+//Perez Mendoza Danna Johana
+        //Toribio Santos Andres
+        //Pérez Solano Sebastián Gadiel
